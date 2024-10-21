@@ -25,7 +25,7 @@ const Card = () => {
             <div className="max-w-4xl  mx-auto flex flex-col items-center justify-center">
                 <div>
                     <h2 className="font-custom2 font-bold text-[35px] lg:text-[50px] px-5 w-full" style={{ color: `rgb(253, 253, 253)` }}>How do we do it?</h2>
-                    <p className=" font-custom3 text-[15px] lg:text-[20px] px-5 w-full -mt-2" style={{ color: `rgb(253, 253, 253)` }}>
+                    <p className=" font-custom3 text-[14px] text-center lg:text-[20px] px-5 w-full -mt-2" style={{ color: `rgb(253, 253, 253)` }}>
                         We have a procedure of three simple steps
                     </p>
                 </div>
